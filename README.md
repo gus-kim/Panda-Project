@@ -37,7 +37,4 @@ O dataset contém informações como:
 * Base sólida para construção de modelos de Machine Learning mais eficientes.
 * Conjunto de features enriquecido e mais representativo da realidade do mercado.
 
----
-
-Se quiser, posso também criar uma versão **em inglês**, ou formatar o README com badges, seções extras (instalação, execução, estrutura do projeto) e deixar tudo mais "GitHub friendly".
 
